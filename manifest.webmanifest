@@ -1,6 +1,6 @@
 {
-  "name": "ARN Store • Riwayat & Analisa V1.1",
-  "short_name": "ARN Cell",
+  "name": "ARN Insight • History And Analysis V1.1",
+  "short_name": "ARN Insight",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

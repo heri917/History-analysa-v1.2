@@ -1,4 +1,4 @@
-const CACHE='arn-store-v11-static-3';
+const CACHE='arn-store-v11-static-4';
 const ASSETS=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./app-icon.jpeg','./interface-logo.jpeg','./loading-logo-source.png'];
 
 self.addEventListener('install', event => {

@@ -9,10 +9,11 @@
   "description": "ARN Store Riwayat & Analisa V1.1",
   "icons": [
     {
-      "src": "app-icon.jpeg",
-      "sizes": "1254x1254",
-      "type": "image/jpeg",
-      "purpose": "any maskable"
+      "src": "app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
+or

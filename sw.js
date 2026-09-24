@@ -1,5 +1,5 @@
 const CACHE='arn-store-v11-static-5';
-const ASSETS=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./app-icon.png','./interface-logo.png','./loading-logo-source.png',./arn-solution.png'];
+const ASSETS=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./app-icon.png','./interface-logo.png','./loading-logo-source.png','./arn-solution.png'];
 
 self.addEventListener('install', event => {
   event.waitUntil(
